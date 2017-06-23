@@ -1,0 +1,7 @@
+{
+  "name": "conv-chang",
+  "version": "0.3.0",
+  "scripts": {
+    "release": "standard-version"
+  }
+}
